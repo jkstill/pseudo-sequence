@@ -2,8 +2,8 @@
 
 
 SERVER=ora12c102rac0
-USERNAME=jkstill
-PASSWORD=grok
+USERNAME=notme
+PASSWORD=somepassword
 INSTANCE=p1.jks.com
 
 unset SQLPATH
